@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+  .map-view {
+    height: 100vh;
+  }
+  
